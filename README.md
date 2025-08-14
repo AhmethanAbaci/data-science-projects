@@ -46,4 +46,4 @@ Her proje; **veri ön işleme**, **görselleştirme**, **makine öğrenmesi mode
 **EN:**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/data-science-projects.git
+   git clone https://github.com/AhmethanAbaci/data-science-projects.git
